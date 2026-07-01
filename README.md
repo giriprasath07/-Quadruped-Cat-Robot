@@ -177,7 +177,7 @@ Robotics Engineer | Embedded Systems | ROS 2 | IoT | AI Robotics
 
 GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/giri-prasath-tk-a05150266/
 
 ---
 
