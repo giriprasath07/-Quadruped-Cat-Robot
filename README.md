@@ -1,4 +1,4 @@
-# 🐱 Quadruped Cat Robot
+# 🐱 Quadruped Dog Robot
 
 A compact and lightweight **Quadruped Cat Robot** designed using **3D-printed parts**, **servo motors**, and a **microcontroller**. This project demonstrates four-legged locomotion, servo synchronization, and robotic movement while maintaining a modular design that is easy to modify and upgrade.
 
@@ -175,7 +175,7 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 Robotics Engineer | Embedded Systems | ROS 2 | IoT | AI Robotics
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/giriprasath07
 
 LinkedIn: https://www.linkedin.com/in/giri-prasath-tk-a05150266/
 
