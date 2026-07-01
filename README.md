@@ -11,7 +11,7 @@ The robot is ideal for robotics enthusiasts, students, and researchers intereste
 > Add an image of your robot here.
 
 ```text
-dogrobot.png
+![Robot](Dog robot.png)
 ```
 
 ---
