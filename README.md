@@ -34,9 +34,9 @@ images/robot.jpg
 | Component | Quantity |
 |-----------|----------|
 | ESP32 / Arduino | 1 |
-| Servo Motors | 8–12 (depending on design) |
-| PCA9685 Servo Driver (Optional) | 1 |
-| Li-ion/LiPo Battery | 1 |
+| BoostBuck converter | 1 |
+| Servo Motors | 9|
+| Li-ion Battery | 3 |
 | Power Switch | 1 |
 | 3D Printed Parts | Multiple |
 | Screws & Nuts | As required |
@@ -46,9 +46,7 @@ images/robot.jpg
 # 💻 Software
 
 - Arduino IDE
-- PlatformIO (Optional)
 - C/C++
-- Python (Optional)
 - ROS 2 (Future Integration)
 
 ---
@@ -95,7 +93,6 @@ Install any required libraries such as:
 
 - Servo
 - Wire
-- Adafruit PWM Servo Driver (if PCA9685 is used)
 
 ## 4. Upload
 
