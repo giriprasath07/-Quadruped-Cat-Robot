@@ -5,14 +5,9 @@ A compact and lightweight **Quadruped Cat Robot** designed using **3D-printed pa
 The robot is ideal for robotics enthusiasts, students, and researchers interested in quadruped robots, embedded systems, and motion control.
 
 ---
-
 ## 📸 Preview
 
-> Add an image of your robot here.
-
-```text
 ![Dog Robot](Dog%20robot.png)
-```
 
 ---
 
